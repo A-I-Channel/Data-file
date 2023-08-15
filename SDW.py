@@ -8,6 +8,7 @@ Original file is located at
 """
 
 # Commented out IPython magic to ensure Python compatibility.
+%cd /content
 !pip install pycloudflared
 !pip install insightface==0.7.3
 !pip install onnx==1.14.0
