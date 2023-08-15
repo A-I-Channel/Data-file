@@ -8,3 +8,10 @@ sd-webui-cutoff
 sd-webui-regional-prompter
 sd-webui-tunnels
 sd-webui-roop
+pycloudflared
+insightface==0.7.3
+onnx==1.14.0
+onnxruntime==1.15.0
+opencv-python==4.7.0.72
+tqdm
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
