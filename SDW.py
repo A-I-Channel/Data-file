@@ -1,4 +1,3 @@
-
 sde = "stable"
 sdq= "-diffusion-webui"
 sdw = sde+sdq
