@@ -1,6 +1,6 @@
 
 cd /content
-pip install pycloudflared
+!pip install pycloudflared
 pip install insightface==0.7.3
 pip install onnx==1.14.0
 pip install onnxruntime==1.15.0
