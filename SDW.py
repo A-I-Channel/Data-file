@@ -1,11 +1,11 @@
 
-%cd /content
-!pip install pycloudflared
-!pip install insightface==0.7.3
-!pip install onnx==1.14.0
-!pip install onnxruntime==1.15.0
-!pip install opencv-python==4.7.0.72
-!pip install tqdm
+cd /content
+pip install pycloudflared
+pip install insightface==0.7.3
+pip install onnx==1.14.0
+pip install onnxruntime==1.15.0
+pip install opencv-python==4.7.0.72
+pip install tqdm
 sde = "stable"
 sdq= "-diffusion-webui"
 sdw = sde+sdq
@@ -21,5 +21,5 @@ tunk = "-tunnels"
 rops = "-roop"
 swaprop = sd+rops
 tunell = sd+tunk
-%cd /content
-!git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui
+cd /content
+git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui
