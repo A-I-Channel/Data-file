@@ -1,5 +1,5 @@
 
-cd /content
+%cd /content
 pip install pycloudflared
 pip install insightface==0.7.3
 pip install onnx==1.14.0
@@ -21,5 +21,5 @@ tunk = "-tunnels"
 rops = "-roop"
 swaprop = sd+rops
 tunell = sd+tunk
-cd /content
+%cd /content
 git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui
