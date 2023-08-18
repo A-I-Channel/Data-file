@@ -15,3 +15,8 @@ onnxruntime==1.15.0
 opencv-python==4.7.0.72
 tqdm
 https://github.com/AUTOMATIC1111/stable-diffusion-webui
+https://github.com/Iyashinouta/sd-model-downloader
+https://github.com/Coyote-A/ultimate-upscale-for-automatic1111
+https://github.com/A-I-Channel/public-link /content/{d["AIC2"]}/extensions/tunnels
+https://github.com/A-I-Channel/explorer-image
+https://github.com/Mikubill/{d["AIC4"]}
