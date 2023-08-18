@@ -28,3 +28,12 @@ https://github.com/A-I-Channel/explorer-image
 /content/stable-diffusion-webui/extensions-builtin/sd-webui-controlnet/models/control_v11p_sd15_canny.safetensors https://huggingface.co/nolanaatama/models/resolve/main/control_v11p_sd15_canny_fp16.safetensors
 /content/stable-diffusion-webui/extensions-builtin/sd-webui-controlnet/models/control_v11p_sd15_openpose.safetensors https://huggingface.co/nolanaatama/models/resolve/main/control_v11p_sd15_openpose_fp16.safetensors
 /content/stable-diffusion-webui/extensions-builtin/sd-webui-controlnet/models/control_v11f1e_sd15_tile.safetensors https://huggingface.co/nolanaatama/models/resolve/main/control_v11f1e_sd15_tile_fp16.safetensors
+/content/stable-diffusion-webui/models/ESRGAN
+/content/stable-diffusion-webui/embeddings/embeddings.zip https://github.com/A-I-Channel/Data-file/raw/main/embeddings.zip
+/content/stable-diffusion-webui/models/ESRGAN/upscalers.zip https://huggingface.co/datasets/AI-C/Data-File/resolve/main/upscalers.zip
+/content/stable-diffusion-webui/embeddings
+/content/stable-diffusion-webui/embeddings/embeddings.zip
+!rm embeddings.zip
+/content/stable-diffusion-webui/models/ESRGAN
+/content/stable-diffusion-webui/models/ESRGAN/upscalers.zip
+!rm upscalers.zip
