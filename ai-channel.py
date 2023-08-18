@@ -25,3 +25,6 @@ https://github.com/A-I-Channel/explorer-image
 /content/stable-diffusion-webui/models/Stable-diffusion/amanyloraCheckpoint_bakedvaeBlessedFp16.safetensors https://huggingface.co/datasets/Kizi-Art/models/resolve/main/aamAnyloraAnimeMixAnime_v1.safetensors
 /content/stable-diffusion-webui/models/Stable-diffusion/CounterfeitV30.safetensors https://civitai.com/api/download/models/57618
 /content/stable-diffusion-webui/models/VAE/vae-ft-mse-840000-ema-pruned.ckpt https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.ckpt
+/content/stable-diffusion-webui/extensions-builtin/sd-webui-controlnet/models/control_v11p_sd15_canny.safetensors https://huggingface.co/nolanaatama/models/resolve/main/control_v11p_sd15_canny_fp16.safetensors
+/content/stable-diffusion-webui/extensions-builtin/sd-webui-controlnet/models/control_v11p_sd15_openpose.safetensors https://huggingface.co/nolanaatama/models/resolve/main/control_v11p_sd15_openpose_fp16.safetensors
+/content/stable-diffusion-webui/extensions-builtin/sd-webui-controlnet/models/control_v11f1e_sd15_tile.safetensors https://huggingface.co/nolanaatama/models/resolve/main/control_v11f1e_sd15_tile_fp16.safetensors
