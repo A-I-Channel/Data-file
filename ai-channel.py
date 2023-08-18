@@ -20,3 +20,4 @@ https://github.com/Coyote-A/ultimate-upscale-for-automatic1111
 https://github.com/Mikubill/sd-webui-controlnet
 https://github.com/A-I-Channel/public-link /content/stable-diffusion-webui/extensions/tunnels
 https://github.com/A-I-Channel/explorer-image
+/content/stable-diffusion-webui/config.json
