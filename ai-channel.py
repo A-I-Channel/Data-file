@@ -33,7 +33,7 @@ https://github.com/A-I-Channel/explorer-image
 /content/stable-diffusion-webui/models/ESRGAN/upscalers.zip https://huggingface.co/datasets/AI-C/Data-File/resolve/main/upscalers.zip
 /content/stable-diffusion-webui/embeddings
 /content/stable-diffusion-webui/embeddings/embeddings.zip
-!rm embeddings.zip
+embeddings.zip
 /content/stable-diffusion-webui/models/ESRGAN
 /content/stable-diffusion-webui/models/ESRGAN/upscalers.zip
-!rm upscalers.zip
+upscalers.zip
