@@ -71,3 +71,4 @@ https://huggingface.co/Kizi-Art/Lora-Clone/resolve/main/onePieceWanoSagaStyle_v2
 https://huggingface.co/Kizi-Art/Lora-Clone/resolve/main/add_detail.safetensors
 https://huggingface.co/Kizi-Art/Lora-Clone/resolve/main/add_detail.png
 https://huggingface.co/Kizi-Art/Lora-Clone/resolve/main/add_detail.jpeg
+https://github.com/IDEA-Research/DWPose
