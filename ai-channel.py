@@ -97,3 +97,4 @@ https://github.com/IDEA-Research/DWPose
 /content/stable-diffusion-webui/extensions-builtin/sd-webui-controlnet/models/t2iadapter_style_sd14v1.pth https://huggingface.co/nolanaatama/models/resolve/main/t2iadapter_style_sd14v1.pth
 https://github.com/A-I-Channel/sdw-wd14-tagger
 https://github.com/fkunn1326/openpose-editor
+https://github.com/A-I-Channel/sd-openpose-editor-clone
