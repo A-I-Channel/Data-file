@@ -103,3 +103,5 @@ https://github.com/A-I-Channel/ui-clone /content/stable-diffusion-webui
 https://github.com/A-I-Channel/AI_Channel_Theme
 https://github.com/deforum-art/sd-webui-deforum
 https://github.com/Bing-su/adetailer
+https://github.com/hnmr293/sd-webui-cutoff
+https://github.com/Gourieff/sd-webui-reactor
