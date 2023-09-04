@@ -102,3 +102,4 @@ https://github.com/A-I-Channel/sd-openpose-editor-clone
 https://github.com/A-I-Channel/ui-clone /content/stable-diffusion-webui
 https://github.com/A-I-Channel/AI_Channel_Theme
 https://github.com/deforum-art/sd-webui-deforum
+https://github.com/Bing-su/adetailer
