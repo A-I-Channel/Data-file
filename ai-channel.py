@@ -106,3 +106,5 @@ https://github.com/Bing-su/adetailer
 https://github.com/hnmr293/sd-webui-cutoff
 https://github.com/Gourieff/sd-webui-reactor
 https://huggingface.co/datasets/AI-C/Data-File/resolve/main/inswapper_128.onnx
+https://github.com/bit9labs/sd-ratio-lock
+https://github.com/brick2face/seamless-tile-inpainting
