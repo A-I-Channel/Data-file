@@ -108,3 +108,4 @@ https://github.com/Gourieff/sd-webui-reactor
 https://huggingface.co/datasets/AI-C/Data-File/resolve/main/inswapper_128.onnx
 https://github.com/bit9labs/sd-ratio-lock
 https://github.com/brick2face/seamless-tile-inpainting
+https://civitai.com/api/download/models/138176
