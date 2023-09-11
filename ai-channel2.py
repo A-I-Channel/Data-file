@@ -110,7 +110,7 @@ https://github.com/bit9labs/sd-ratio-lock
 https://github.com/brick2face/seamless-tile-inpainting
 /kaggle/working/stable-diffusion-webui/models/Stable-diffusion/cyberrealistic_v33.safetensors https://civitai.com/api/download/models/138176
 /kaggle/working/stable-diffusion-webui/extensions-builtin/sd-webui-controlnet/models/ioclab_sd15_recolor.safetensors https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/ioclab_sd15_recolor.safetensors
-install -q xformers==0.0.20 triton==2.0.0 -U
+install xformers==0.0.20 triton==2.0.0 -U
 uninstall -y torch
 uninstall -y torchvision
 uninstall -y torchaudio
