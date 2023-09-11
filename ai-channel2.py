@@ -124,3 +124,4 @@ apt -y install wget git python3 python3-venv
 pip install mediapipe
 pip install ultralytics
 pip install insightface==0.7.3
+--share --disable-safe-unpickle --theme=dark --no-half-vae --enable-insecure-extension --gradio-queue
