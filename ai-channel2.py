@@ -110,3 +110,17 @@ https://github.com/bit9labs/sd-ratio-lock
 https://github.com/brick2face/seamless-tile-inpainting
 /kaggle/working/stable-diffusion-webui/models/Stable-diffusion/cyberrealistic_v33.safetensors https://civitai.com/api/download/models/138176
 /kaggle/working/stable-diffusion-webui/extensions-builtin/sd-webui-controlnet/models/ioclab_sd15_recolor.safetensors https://huggingface.co/lllyasviel/sd_control_collection/resolve/main/ioclab_sd15_recolor.safetensors
+install -q xformers==0.0.20 triton==2.0.0 -U
+uninstall -y torch
+uninstall -y torchvision
+uninstall -y torchaudio
+install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+apt -y update -qq
+apt -y install -qq aria2 libcairo2-dev pkg-config python3-dev
+apt-get update
+apt-get install -y google-perftools
+apt -y install wget git python3 python3-venv
+/kaggle/working/
+pip install mediapipe
+pip install ultralytics
+pip install insightface==0.7.3
