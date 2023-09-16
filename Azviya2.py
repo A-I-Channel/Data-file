@@ -128,3 +128,4 @@ pip install insightface==0.7.3
 https://github.com/etherealxx/batchlinks-webui
 https://github.com/A-I-Channel/Downloader
 https://github.com/DominikDoom/a1111-sd-webui-tagcomplete
+!conda install -y -c conda-forge opencv
