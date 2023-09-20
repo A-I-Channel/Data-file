@@ -132,3 +132,4 @@ https://github.com/DominikDoom/a1111-sd-webui-tagcomplete
 https://github.com/pharmapsychotic/clip-interrogator-ext
 https://github.com/A-I-Channel/tagger-v2
 Stable-diffusion
+https://github.com/huchenlei/sd-webui-openpose-editor
