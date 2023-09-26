@@ -207,7 +207,7 @@
     "disabled_extensions": [],
     "disable_all_extensions": "none",
     "restore_config_state_file": "",
-    "sd_checkpoint_hash": "",
+    "sd_checkpoint_hash": "354b8c571d3abe963e1520d3b4e0647be519841f4376fc5d16f7f5e7859f7d49",
     "ldsr_steps": 100,
     "ldsr_cached": false,
     "SCUNET_tile": 256,
@@ -378,18 +378,5 @@
     "tagger_repl_us_excl": "0_0, (o)_(o), +_+, +_-, ._., <o>_<o>, <|>_<|>, =_=, >_<, 3_3, 6_9, >_o, @_@, ^_^, o_o, u_u, x_x, |_|, ||_||",
     "tagger_escape": false,
     "tagger_batch_size": 1024.0,
-    "tagger_hf_cache_dir": "",
-    "animatediff_model_path": "",
-    "animatediff_optimize_gif_palette": false,
-    "animatediff_optimize_gif_gifsicle": false,
-    "animatediff_xformers": "Optimize attention layers with xformers",
-    "tac_sortWildcardResults": true,
-    "tac_includeEmbeddingsInNormalResults": false,
-    "tac_showExtraNetworkPreviews": true,
-    "tac_modelSortOrder": "Name",
-    "tac_appendSpace": true,
-    "tac_alwaysSpaceAtEnd": true,
-    "tac_modelKeywordCompletion": "Never",
-    "tac_modelKeywordLocation": "Start of prompt",
-    "tac_wildcardCompletionMode": "To next folder level"
+    "tagger_hf_cache_dir": "/kaggle/working/stable-diffusion-webui/models/interrogators"
 }
