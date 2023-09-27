@@ -99,7 +99,7 @@
     "sdxl_crop_left": 0,
     "sdxl_refiner_low_aesthetic_score": 2.5,
     "sdxl_refiner_high_aesthetic_score": 6.0,
-    "cross_attention_optimization": "sdp-no-mem - scaled dot product without memory efficient attention",
+    "cross_attention_optimization": "Doggettx",
     "s_min_uncond": 0.0,
     "token_merging_ratio": 0.0,
     "token_merging_ratio_img2img": 0.0,
